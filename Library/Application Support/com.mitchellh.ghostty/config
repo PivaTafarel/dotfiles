@@ -43,3 +43,4 @@
 # resize-overlay-duration = 4s 200ms
 
 theme = catppuccin-macchiato
+background-opacity = 0.9
